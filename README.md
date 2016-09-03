@@ -17,13 +17,13 @@ Cachesize is available from Maven Central :
 
 ```
 <dependency> 
-<groupId>fr.ujm.tse.lt2c.satin</groupId> 
-<artifactId>cachesize</artifactId> 
-<version>0.2.1</version> 
+  <groupId>fr.ujm.tse.lt2c.satin</groupId> 
+  <artifactId>cachesize</artifactId> 
+  <version>0.2.1</version> 
 </dependency>
 ```
 
- ###Retrieving total size of the L1 instruction cache and the line size of the L1 data cache : 
+ #Retrieving total size of the L1 instruction cache and the line size of the L1 data cache : 
 ```
 CacheInfo info = CacheInfo.getInstance(); 
 
