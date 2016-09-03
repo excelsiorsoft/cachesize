@@ -23,7 +23,7 @@ Cachesize is available from Maven Central :
 </dependency>
 ```
 
- #Retrieving total size of the L1 instruction cache and the line size of the L1 data cache : 
+#Retrieving total size of the L1 instruction cache and the line size of the L1 data cache : 
 ```
 CacheInfo info = CacheInfo.getInstance(); 
 
