@@ -1,6 +1,6 @@
-#CPU Cache Information for Java
+#N.B.: [This is a fork of a namesake project from google code](https://code.google.com/archive/p/cachesize/)
 
-[This is a fork of a namesake project from google code](https://code.google.com/archive/p/cachesize/)
+#CPU Cache Information for Java
 
 This library provides access to CPU cache information in Java. The goal is to enable the development of cache aware algorithms in Java.
 
